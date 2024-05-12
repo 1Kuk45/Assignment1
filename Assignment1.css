@@ -1,0 +1,124 @@
+
+.a{
+    margin-left: 50px;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    padding: 20px 30px;
+    border: none;
+    color: white;
+    
+    font-size: large;
+}
+.b{
+    margin-top: 10%;
+    margin-left: 50px;
+    background-color: lightgray;
+    padding: 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.c{
+    margin-top: 10%;
+    margin-left: 50px;
+    background-color: aquamarine;
+    padding: 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.d{
+    margin-top: 10%;
+    margin-left: 50px;
+    background-color: rgb(64, 132, 196);
+    padding: 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.e{
+    margin-top: 10%;
+    margin-left: 50px;
+    background-color: yellow;
+    padding: 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.f{
+    margin-top: 10%;
+    margin-left: 50px;
+    background-color: rgb(237, 74, 129);
+    padding: 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.g{
+    margin-left: 50px;
+    margin-top: 10%;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    font-size: large;
+    padding: 20px 30px;
+}
+.h{
+    size: 100px;
+    margin-left: 50px;
+    background-color: lightskyblue;
+    padding: 10px;
+    border: none;
+    font-size: 30px;
+    color: white;
+}
+.i{
+    font-size: large;
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+}
+.j{
+    color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border-color: lightskyblue;
+    padding: 20px 30px;
+    margin-left: 50px;
+}
+.k{
+    margin-left: 50px;
+    font-size: large;
+    padding: 20px 30px;
+}
+.l{
+    margin-left: 50px;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    padding: 20px 30px;
+    border: none;
+    color: white;
+    
+    font-size: large;
+}
+.container{
+    margin-top: 50px;
+    
+}
